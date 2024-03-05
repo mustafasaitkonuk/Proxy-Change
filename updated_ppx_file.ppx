@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProxifierProfile version="102" platform="Windows" product_id="0" product_minver="400">
+	<Options>
+		<Resolve>
+			<AutoModeDetection enabled="true" />
+			<ViaProxy enabled="false" />
+			<BlockNonATypes enabled="false" />
+			<ExclusionList OnlyFromListMode="false">%ComputerName%; localhost; *.local</ExclusionList>
+			<DnsUdpMode>0</DnsUdpMode>
+		</Resolve>
+		<Encryption mode="disabled" />
+		<ConnectionLoopDetection enabled="true" resolve="true" />
+		<Udp mode="mode_bypass" />
+		<LeakPreventionMode enabled="false" />
+		<ProcessOtherUsers enabled="false" />
+		<ProcessServices enabled="false" />
+		<HandleDirectConnections enabled="false" />
+		<HttpProxiesSupport enabled="false" />
+	</Options>
+	<ProxyList>
+		<Proxy id="201" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-lPDIW7YG_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY1</Label>
+		</Proxy>
+		<Proxy id="202" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-xoRE6WCq_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY2</Label>
+		</Proxy>
+		<Proxy id="203" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-R4mlGZWE_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY3</Label>
+		</Proxy>
+		<Proxy id="204" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-LmN416qF_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY4</Label>
+		</Proxy>
+		<Proxy id="205" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-j94ml2Ff_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY5</Label>
+		</Proxy>
+		<Proxy id="206" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-0hZTMW3Q_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY6</Label>
+		</Proxy>
+		<Proxy id="207" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-dM6QKqz7_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY7</Label>
+		</Proxy>
+		<Proxy id="208" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-x66QaNC8_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY8</Label>
+		</Proxy>
+		<Proxy id="209" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-splnvb1f_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY9</Label>
+		</Proxy>
+		<Proxy id="210" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-Vm6QE7yS_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY10</Label>
+		</Proxy>
+		<Proxy id="211" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-hH3bSUiD_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY11</Label>
+		</Proxy>
+		<Proxy id="212" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-Ksi7RjyT_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY12</Label>
+		</Proxy>
+		<Proxy id="213" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-0tqd34He_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY13</Label>
+		</Proxy>
+		<Proxy id="214" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-mODP7W0v_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY14</Label>
+		</Proxy>
+		<Proxy id="215" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-O5S6efuc_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY15</Label>
+		</Proxy>
+		<Proxy id="216" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-kIriOUFI_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY16</Label>
+		</Proxy>
+		<Proxy id="217" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-LqmwWi1H_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY17</Label>
+		</Proxy>
+		<Proxy id="218" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-64QMGqdS_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY18</Label>
+		</Proxy>
+		<Proxy id="219" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-PTgpW5WB_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY19</Label>
+		</Proxy>
+		<Proxy id="220" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-mkwqm2k2_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY20</Label>
+		</Proxy>
+		<Proxy id="221" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-L9MTYCJT_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY21</Label>
+		</Proxy>
+		<Proxy id="222" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-oS0g4X4i_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY22</Label>
+		</Proxy>
+		<Proxy id="223" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-e4M6rN4y_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY23</Label>
+		</Proxy>
+		<Proxy id="224" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-hH7zPw9J_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY24</Label>
+		</Proxy>
+		<Proxy id="225" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-QDP7s66O_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY25</Label>
+		</Proxy>
+		<Proxy id="226" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-Iw4R9m7n_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY26</Label>
+		</Proxy>
+		<Proxy id="227" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-X75oUDag_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY27</Label>
+		</Proxy>
+		<Proxy id="228" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-h4aCSZa7_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY28</Label>
+		</Proxy>
+		<Proxy id="229" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-oRPdApb4_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY29</Label>
+		</Proxy>
+		<Proxy id="230" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-Q02EPVZF_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY30</Label>
+		</Proxy>
+		<Proxy id="231" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-6ucJf7zF_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY31</Label>
+		</Proxy>
+		<Proxy id="232" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-MA3pYvd9_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY32</Label>
+		</Proxy>
+		<Proxy id="233" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-pmk8Qk5p_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY33</Label>
+		</Proxy>
+		<Proxy id="234" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-xs8IgjhT_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY34</Label>
+		</Proxy>
+		<Proxy id="235" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-hPS02Tc8_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY35</Label>
+		</Proxy>
+		<Proxy id="236" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-tIb1fuvU_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY36</Label>
+		</Proxy>
+		<Proxy id="237" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-ecixdI1I_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY37</Label>
+		</Proxy>
+		<Proxy id="238" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-YFBbExXf_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY38</Label>
+		</Proxy>
+		<Proxy id="239" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-A0Rkl7yi_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY39</Label>
+		</Proxy>
+		<Proxy id="240" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-0ofKvZfJ_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY40</Label>
+		</Proxy>
+		<Proxy id="241" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-F4SErHaZ_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY41</Label>
+		</Proxy>
+		<Proxy id="242" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-mvKSlZUy_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY42</Label>
+		</Proxy>
+		<Proxy id="243" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-rcakA2Oq_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY43</Label>
+		</Proxy>
+		<Proxy id="244" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-K3f4mflv_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY44</Label>
+		</Proxy>
+		<Proxy id="245" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-K585Ey0o_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY45</Label>
+		</Proxy>
+		<Proxy id="246" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-mDfY2hmH_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY46</Label>
+		</Proxy>
+		<Proxy id="247" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-XJoF8dxu_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY47</Label>
+		</Proxy>
+		<Proxy id="248" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-Cf00D9df_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY48</Label>
+		</Proxy>
+		<Proxy id="249" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-7DR4FMlB_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY49</Label>
+		</Proxy>
+		<Proxy id="250" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-NctMkySQ_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY50</Label>
+		</Proxy>
+		<Proxy id="251" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-vYtijDqw_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY51</Label>
+		</Proxy>
+		<Proxy id="252" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-zEIeFD6Z_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY52</Label>
+		</Proxy>
+		<Proxy id="253" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-ui9fnv0X_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY53</Label>
+		</Proxy>
+		<Proxy id="254" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-OZksRNx4_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY54</Label>
+		</Proxy>
+		<Proxy id="255" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-8FqaC3Ri_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY55</Label>
+		</Proxy>
+		<Proxy id="256" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-mxsomX4e_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY56</Label>
+		</Proxy>
+		<Proxy id="257" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-7kzvh5ok_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY57</Label>
+		</Proxy>
+		<Proxy id="258" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-aHiGr5zN_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY58</Label>
+		</Proxy>
+		<Proxy id="259" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-zPwvZshJ_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY59</Label>
+		</Proxy>
+		<Proxy id="260" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-GAvI1OVt_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY60</Label>
+		</Proxy>
+		<Proxy id="261" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-qRrrH7PS_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY61</Label>
+		</Proxy>
+		<Proxy id="262" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-o3ZgmBfl_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY62</Label>
+		</Proxy>
+		<Proxy id="263" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-4OTYAI3H_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY63</Label>
+		</Proxy>
+		<Proxy id="264" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-Sygw0TAW_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY64</Label>
+		</Proxy>
+		<Proxy id="265" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-JldcmpwX_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY65</Label>
+		</Proxy>
+		<Proxy id="266" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-0mNvm8MK_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY66</Label>
+		</Proxy>
+		<Proxy id="267" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-dYcGLB1k_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY67</Label>
+		</Proxy>
+		<Proxy id="268" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-F9sPsizf_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY68</Label>
+		</Proxy>
+		<Proxy id="269" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-yJzx36Jt_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY69</Label>
+		</Proxy>
+		<Proxy id="270" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-K9QSBaJY_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY70</Label>
+		</Proxy>
+		<Proxy id="271" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-F46NsTO1_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY71</Label>
+		</Proxy>
+		<Proxy id="272" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-D65GHuW9_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY72</Label>
+		</Proxy>
+		<Proxy id="273" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-Bf2ZriCh_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY73</Label>
+		</Proxy>
+		<Proxy id="274" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-r2uLR8EO_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY74</Label>
+		</Proxy>
+		<Proxy id="275" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-8n1uUhru_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY75</Label>
+		</Proxy>
+		<Proxy id="276" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-YVxYno6p_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY76</Label>
+		</Proxy>
+		<Proxy id="277" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-xS7mAzm7_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY77</Label>
+		</Proxy>
+		<Proxy id="278" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-nWhHMmqX_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY78</Label>
+		</Proxy>
+		<Proxy id="279" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-EsV7ydOw_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY79</Label>
+		</Proxy>
+		<Proxy id="280" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-gS1UhZMu_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY80</Label>
+		</Proxy>
+		<Proxy id="281" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-xh5oK6Gy_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY81</Label>
+		</Proxy>
+		<Proxy id="282" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-gUU2CRoA_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY82</Label>
+		</Proxy>
+		<Proxy id="283" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-DsTFcs4u_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY83</Label>
+		</Proxy>
+		<Proxy id="284" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-449J73PB_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY84</Label>
+		</Proxy>
+		<Proxy id="285" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-7e5SM7EP_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY85</Label>
+		</Proxy>
+		<Proxy id="286" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-jphOFgZr_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY86</Label>
+		</Proxy>
+		<Proxy id="287" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-NxFG1aum_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY87</Label>
+		</Proxy>
+		<Proxy id="288" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-5bxvgybg_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY88</Label>
+		</Proxy>
+		<Proxy id="289" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-ePm3itox_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY89</Label>
+		</Proxy>
+		<Proxy id="290" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-naGipdEH_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY90</Label>
+		</Proxy>
+		<Proxy id="291" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-ngvRX1dM_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY91</Label>
+		</Proxy>
+		<Proxy id="292" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-CrdLVusR_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY92</Label>
+		</Proxy>
+		<Proxy id="293" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-ROlVEXdR_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY93</Label>
+		</Proxy>
+		<Proxy id="294" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-0CYVTZI3_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY94</Label>
+		</Proxy>
+		<Proxy id="295" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-LEzuuftt_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY95</Label>
+		</Proxy>
+		<Proxy id="296" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-4URFf7OI_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY96</Label>
+		</Proxy>
+		<Proxy id="297" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-GDk3Chwh_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY97</Label>
+		</Proxy>
+		<Proxy id="298" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-3pVqnQsm_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY98</Label>
+		</Proxy>
+		<Proxy id="299" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-1cXyCMWt_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY99</Label>
+		</Proxy>
+		<Proxy id="300" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>e9giHySi76IkeFNY_country-de_session-seKj3sJl_lifetime-2m</Password>
+				<Username>yrR68GvsSfAUdRpE</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>geo.iproyal.com</Address>
+			<Label>PROXY100</Label>
+		</Proxy>
+	</ProxyList>
+	<ChainList>
+		<Chain id="1000" type="load_balancing">
+			<LoadBalancingSameProxyForPid>true</LoadBalancingSameProxyForPid>
+			<Proxy enabled="true">202</Proxy>
+			<Proxy enabled="true">203</Proxy>
+			<Proxy enabled="true">204</Proxy>
+			<Proxy enabled="true">205</Proxy>
+			<Proxy enabled="true">206</Proxy>
+			<Proxy enabled="true">207</Proxy>
+			<Proxy enabled="true">208</Proxy>
+			<Proxy enabled="true">209</Proxy>
+			<Proxy enabled="true">210</Proxy>
+			<Proxy enabled="true">211</Proxy>
+			<Proxy enabled="true">212</Proxy>
+			<Proxy enabled="true">213</Proxy>
+			<Proxy enabled="true">214</Proxy>
+			<Proxy enabled="true">215</Proxy>
+			<Proxy enabled="true">216</Proxy>
+			<Proxy enabled="true">217</Proxy>
+			<Proxy enabled="true">218</Proxy>
+			<Proxy enabled="true">219</Proxy>
+			<Proxy enabled="true">220</Proxy>
+			<Proxy enabled="true">221</Proxy>
+			<Proxy enabled="true">222</Proxy>
+			<Proxy enabled="true">223</Proxy>
+			<Proxy enabled="true">224</Proxy>
+			<Proxy enabled="true">225</Proxy>
+			<Proxy enabled="true">226</Proxy>
+			<Proxy enabled="true">227</Proxy>
+			<Proxy enabled="true">228</Proxy>
+			<Proxy enabled="true">229</Proxy>
+			<Proxy enabled="true">230</Proxy>
+			<Proxy enabled="true">231</Proxy>
+			<Proxy enabled="true">232</Proxy>
+			<Proxy enabled="true">233</Proxy>
+			<Proxy enabled="true">234</Proxy>
+			<Proxy enabled="true">235</Proxy>
+			<Proxy enabled="true">236</Proxy>
+			<Proxy enabled="true">237</Proxy>
+			<Proxy enabled="true">238</Proxy>
+			<Proxy enabled="true">239</Proxy>
+			<Proxy enabled="true">240</Proxy>
+			<Proxy enabled="true">241</Proxy>
+			<Proxy enabled="true">242</Proxy>
+			<Proxy enabled="true">243</Proxy>
+			<Proxy enabled="true">244</Proxy>
+			<Proxy enabled="true">245</Proxy>
+			<Proxy enabled="true">246</Proxy>
+			<Proxy enabled="true">247</Proxy>
+			<Proxy enabled="true">248</Proxy>
+			<Proxy enabled="true">249</Proxy>
+			<Proxy enabled="true">250</Proxy>
+			<Proxy enabled="true">251</Proxy>
+			<Proxy enabled="true">252</Proxy>
+			<Proxy enabled="true">253</Proxy>
+			<Proxy enabled="true">254</Proxy>
+			<Proxy enabled="true">255</Proxy>
+			<Proxy enabled="true">256</Proxy>
+			<Proxy enabled="true">257</Proxy>
+			<Proxy enabled="true">258</Proxy>
+			<Proxy enabled="true">259</Proxy>
+			<Proxy enabled="true">260</Proxy>
+			<Proxy enabled="true">261</Proxy>
+			<Proxy enabled="true">262</Proxy>
+			<Proxy enabled="true">263</Proxy>
+			<Proxy enabled="true">264</Proxy>
+			<Proxy enabled="true">265</Proxy>
+			<Proxy enabled="true">266</Proxy>
+			<Proxy enabled="true">267</Proxy>
+			<Proxy enabled="true">268</Proxy>
+			<Proxy enabled="true">269</Proxy>
+			<Proxy enabled="true">270</Proxy>
+			<Proxy enabled="true">271</Proxy>
+			<Proxy enabled="true">272</Proxy>
+			<Proxy enabled="true">273</Proxy>
+			<Proxy enabled="true">274</Proxy>
+			<Proxy enabled="true">275</Proxy>
+			<Proxy enabled="true">276</Proxy>
+			<Proxy enabled="true">277</Proxy>
+			<Proxy enabled="true">278</Proxy>
+			<Proxy enabled="true">279</Proxy>
+			<Proxy enabled="true">280</Proxy>
+			<Proxy enabled="true">281</Proxy>
+			<Proxy enabled="true">282</Proxy>
+			<Proxy enabled="true">283</Proxy>
+			<Proxy enabled="true">284</Proxy>
+			<Proxy enabled="true">285</Proxy>
+			<Proxy enabled="true">286</Proxy>
+			<Proxy enabled="true">287</Proxy>
+			<Proxy enabled="true">288</Proxy>
+			<Proxy enabled="true">289</Proxy>
+			<Proxy enabled="true">290</Proxy>
+			<Proxy enabled="true">291</Proxy>
+			<Proxy enabled="true">292</Proxy>
+			<Proxy enabled="true">293</Proxy>
+			<Proxy enabled="true">294</Proxy>
+			<Proxy enabled="true">295</Proxy>
+			<Proxy enabled="true">296</Proxy>
+			<Proxy enabled="true">297</Proxy>
+			<Proxy enabled="true">298</Proxy>
+			<Proxy enabled="true">299</Proxy>
+			<Proxy enabled="true">300</Proxy>
+			<Name>New</Name>
+		</Chain>
+	</ChainList>
+	<RuleList>
+		<Rule enabled="true">
+			<Action type="Chain">1000</Action>
+			<Targets>*.metin2.gameforge.com;pixelzirkus.gameforge.com</Targets>
+			<Applications>chrome.exe</Applications>
+			<Name>login</Name>
+		</Rule>
+		<Rule enabled="true">
+			<Action type="Direct" />
+			<Targets>localhost; 127.0.0.1; %ComputerName%; ::1</Targets>
+			<Name>localhost</Name>
+		</Rule>
+		<Rule enabled="true">
+			<Action type="Direct" />
+			<Name>Default</Name>
+		</Rule>
+	</RuleList>
+</ProxifierProfile>

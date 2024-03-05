@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProxifierProfile version="102" platform="Windows" product_id="0" product_minver="400">
+	<Options>
+		<Resolve>
+			<AutoModeDetection enabled="true" />
+			<ViaProxy enabled="false" />
+			<BlockNonATypes enabled="false" />
+			<ExclusionList OnlyFromListMode="false">%ComputerName%; localhost; *.local</ExclusionList>
+			<DnsUdpMode>0</DnsUdpMode>
+		</Resolve>
+		<Encryption mode="disabled" />
+		<ConnectionLoopDetection enabled="true" resolve="true" />
+		<Udp mode="mode_bypass" />
+		<LeakPreventionMode enabled="false" />
+		<ProcessOtherUsers enabled="false" />
+		<ProcessServices enabled="false" />
+		<HandleDirectConnections enabled="false" />
+		<HttpProxiesSupport enabled="false" />
+	</Options>
+	<ProxyList>
+		<Proxy id="201" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-zwmzzjVo_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY1</Label>
+		</Proxy>
+		<Proxy id="202" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-pSKFio0V_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY2</Label>
+		</Proxy>
+		<Proxy id="203" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-HsEzsHKj_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY3</Label>
+		</Proxy>
+		<Proxy id="204" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-Yjn0dw6H_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY4</Label>
+		</Proxy>
+		<Proxy id="205" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-6nu2FUdM_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY5</Label>
+		</Proxy>
+		<Proxy id="206" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-VT1jOf1A_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY6</Label>
+		</Proxy>
+		<Proxy id="207" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-HQNaXsRZ_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY7</Label>
+		</Proxy>
+		<Proxy id="208" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-krPtz81G_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY8</Label>
+		</Proxy>
+		<Proxy id="209" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-rPHFrHTJ_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY9</Label>
+		</Proxy>
+		<Proxy id="210" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-YeixCrNR_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY10</Label>
+		</Proxy>
+		<Proxy id="211" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-5GQwleDN_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY11</Label>
+		</Proxy>
+		<Proxy id="212" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-OkrSVKTw_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY12</Label>
+		</Proxy>
+		<Proxy id="213" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-1a7z4FBz_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY13</Label>
+		</Proxy>
+		<Proxy id="214" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-9KODFnzv_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY14</Label>
+		</Proxy>
+		<Proxy id="215" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-jXQ5u26Y_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY15</Label>
+		</Proxy>
+		<Proxy id="216" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-YCtW4iPB_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY16</Label>
+		</Proxy>
+		<Proxy id="217" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-LDCoj27C_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY17</Label>
+		</Proxy>
+		<Proxy id="218" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-5ScJFDdX_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY18</Label>
+		</Proxy>
+		<Proxy id="219" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-cvlvvP0i_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY19</Label>
+		</Proxy>
+		<Proxy id="220" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-4Zewwbnk_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY20</Label>
+		</Proxy>
+		<Proxy id="221" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-o7pmFr2B_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY21</Label>
+		</Proxy>
+		<Proxy id="222" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-XIqvTdmp_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY22</Label>
+		</Proxy>
+		<Proxy id="223" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-7t6OicMv_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY23</Label>
+		</Proxy>
+		<Proxy id="224" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-6Awk8GfC_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY24</Label>
+		</Proxy>
+		<Proxy id="225" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-pUpvUGGP_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY25</Label>
+		</Proxy>
+		<Proxy id="226" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-FywQGLGS_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY26</Label>
+		</Proxy>
+		<Proxy id="227" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-bCwmend8_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY27</Label>
+		</Proxy>
+		<Proxy id="228" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-bvSZHUpj_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY28</Label>
+		</Proxy>
+		<Proxy id="229" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-WtLpN50Z_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY29</Label>
+		</Proxy>
+		<Proxy id="230" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-sI9bEUjr_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY30</Label>
+		</Proxy>
+		<Proxy id="231" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-sDveP5fd_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY31</Label>
+		</Proxy>
+		<Proxy id="232" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-eiMY2igN_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY32</Label>
+		</Proxy>
+		<Proxy id="233" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-O7tIEBPz_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY33</Label>
+		</Proxy>
+		<Proxy id="234" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-r7x6TXbc_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY34</Label>
+		</Proxy>
+		<Proxy id="235" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-tFHGVs5C_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY35</Label>
+		</Proxy>
+		<Proxy id="236" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-z3vRj7P9_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY36</Label>
+		</Proxy>
+		<Proxy id="237" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-o1YHNPYZ_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY37</Label>
+		</Proxy>
+		<Proxy id="238" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-zrenCZWW_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY38</Label>
+		</Proxy>
+		<Proxy id="239" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-vEoXl8ze_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY39</Label>
+		</Proxy>
+		<Proxy id="240" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-VL7hxcWW_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY40</Label>
+		</Proxy>
+		<Proxy id="241" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-UiG6cd0v_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY41</Label>
+		</Proxy>
+		<Proxy id="242" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-ptgPVDj6_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY42</Label>
+		</Proxy>
+		<Proxy id="243" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-4vJqWgOG_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY43</Label>
+		</Proxy>
+		<Proxy id="244" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-jSm5TQvC_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY44</Label>
+		</Proxy>
+		<Proxy id="245" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-su0tvNKe_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY45</Label>
+		</Proxy>
+		<Proxy id="246" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-AibG3IBs_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY46</Label>
+		</Proxy>
+		<Proxy id="247" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-xIGgugVM_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY47</Label>
+		</Proxy>
+		<Proxy id="248" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-dQmATl0S_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY48</Label>
+		</Proxy>
+		<Proxy id="249" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-ga1TPCHG_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY49</Label>
+		</Proxy>
+		<Proxy id="250" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-JJWhQakb_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY50</Label>
+		</Proxy>
+		<Proxy id="251" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-U8np19Ym_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY51</Label>
+		</Proxy>
+		<Proxy id="252" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-yunAZRIR_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY52</Label>
+		</Proxy>
+		<Proxy id="253" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-JOMJqb0U_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY53</Label>
+		</Proxy>
+		<Proxy id="254" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-EV0PsWL8_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY54</Label>
+		</Proxy>
+		<Proxy id="255" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-tWpnHTbq_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY55</Label>
+		</Proxy>
+		<Proxy id="256" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-Jr5XtKmk_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY56</Label>
+		</Proxy>
+		<Proxy id="257" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-ks7AzdZP_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY57</Label>
+		</Proxy>
+		<Proxy id="258" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-Wdpa3hiA_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY58</Label>
+		</Proxy>
+		<Proxy id="259" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-7NDr34Dc_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY59</Label>
+		</Proxy>
+		<Proxy id="260" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-2RndslOR_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY60</Label>
+		</Proxy>
+		<Proxy id="261" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-6sjKKStE_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY61</Label>
+		</Proxy>
+		<Proxy id="262" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-HQhEp9Pp_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY62</Label>
+		</Proxy>
+		<Proxy id="263" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-70flEyMo_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY63</Label>
+		</Proxy>
+		<Proxy id="264" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-1TlupPgY_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY64</Label>
+		</Proxy>
+		<Proxy id="265" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-we1QrYWS_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY65</Label>
+		</Proxy>
+		<Proxy id="266" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-y5hw2rak_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY66</Label>
+		</Proxy>
+		<Proxy id="267" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-EfsTecTz_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY67</Label>
+		</Proxy>
+		<Proxy id="268" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-njKrLIT6_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY68</Label>
+		</Proxy>
+		<Proxy id="269" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-BefG40XV_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY69</Label>
+		</Proxy>
+		<Proxy id="270" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-ukvrLM6m_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY70</Label>
+		</Proxy>
+		<Proxy id="271" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-O5paEocF_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY71</Label>
+		</Proxy>
+		<Proxy id="272" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-dvNOBzU8_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY72</Label>
+		</Proxy>
+		<Proxy id="273" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-69aUXZXF_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY73</Label>
+		</Proxy>
+		<Proxy id="274" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-crkezfvX_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY74</Label>
+		</Proxy>
+		<Proxy id="275" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-pm11elRQ_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY75</Label>
+		</Proxy>
+		<Proxy id="276" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-nB4QCLsa_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY76</Label>
+		</Proxy>
+		<Proxy id="277" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-6DEflRzI_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY77</Label>
+		</Proxy>
+		<Proxy id="278" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-zeOxR0mr_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY78</Label>
+		</Proxy>
+		<Proxy id="279" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-eaV6qBUO_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY79</Label>
+		</Proxy>
+		<Proxy id="280" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-wXrNEZxS_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY80</Label>
+		</Proxy>
+		<Proxy id="281" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-cehXvpNt_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY81</Label>
+		</Proxy>
+		<Proxy id="282" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-8H5VYEkI_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY82</Label>
+		</Proxy>
+		<Proxy id="283" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-O095OulG_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY83</Label>
+		</Proxy>
+		<Proxy id="284" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-mCKZbwes_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY84</Label>
+		</Proxy>
+		<Proxy id="285" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-RSOJ8oOw_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY85</Label>
+		</Proxy>
+		<Proxy id="286" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-ZLKYqI8S_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY86</Label>
+		</Proxy>
+		<Proxy id="287" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-tVR8Xq1o_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY87</Label>
+		</Proxy>
+		<Proxy id="288" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-Ve8RfEuA_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY88</Label>
+		</Proxy>
+		<Proxy id="289" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-ejvjWLSJ_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY89</Label>
+		</Proxy>
+		<Proxy id="290" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-qRmURaB7_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY90</Label>
+		</Proxy>
+		<Proxy id="291" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-bj97DQMO_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY91</Label>
+		</Proxy>
+		<Proxy id="292" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-4ijPQBde_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY92</Label>
+		</Proxy>
+		<Proxy id="293" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-iw7vHlN0_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY93</Label>
+		</Proxy>
+		<Proxy id="294" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-v9YkODHo_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY94</Label>
+		</Proxy>
+		<Proxy id="295" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-g4szQHSN_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY95</Label>
+		</Proxy>
+		<Proxy id="296" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-rso0CrU9_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY96</Label>
+		</Proxy>
+		<Proxy id="297" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-g2fw0oqW_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY97</Label>
+		</Proxy>
+		<Proxy id="298" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-1plI7v9d_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY98</Label>
+		</Proxy>
+		<Proxy id="299" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-P9QzNIQZ_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY99</Label>
+		</Proxy>
+		<Proxy id="300" type="HTTPS">
+			<Authentication enabled="true">
+				<Password>Pp4itlwSSrNYH8vm_country-de_session-CZM1jM5b_lifetime-1m_skipispstatic-1</Password>
+				<Username>wx8GbMvBgoWD4okD</Username>
+			</Authentication>
+			<Options>0</Options>
+			<Port>12321</Port>
+			<Address>91.239.130.34</Address>
+			<Label>PROXY100</Label>
+		</Proxy>
+	</ProxyList>
+	<ChainList>
+		<Chain id="1000" type="load_balancing">
+			<LoadBalancingSameProxyForPid>true</LoadBalancingSameProxyForPid>
+			<Proxy enabled="true">202</Proxy>
+			<Proxy enabled="true">203</Proxy>
+			<Proxy enabled="true">204</Proxy>
+			<Proxy enabled="true">205</Proxy>
+			<Proxy enabled="true">206</Proxy>
+			<Proxy enabled="true">207</Proxy>
+			<Proxy enabled="true">208</Proxy>
+			<Proxy enabled="true">209</Proxy>
+			<Proxy enabled="true">210</Proxy>
+			<Proxy enabled="true">211</Proxy>
+			<Proxy enabled="true">212</Proxy>
+			<Proxy enabled="true">213</Proxy>
+			<Proxy enabled="true">214</Proxy>
+			<Proxy enabled="true">215</Proxy>
+			<Proxy enabled="true">216</Proxy>
+			<Proxy enabled="true">217</Proxy>
+			<Proxy enabled="true">218</Proxy>
+			<Proxy enabled="true">219</Proxy>
+			<Proxy enabled="true">220</Proxy>
+			<Proxy enabled="true">221</Proxy>
+			<Proxy enabled="true">222</Proxy>
+			<Proxy enabled="true">223</Proxy>
+			<Proxy enabled="true">224</Proxy>
+			<Proxy enabled="true">225</Proxy>
+			<Proxy enabled="true">226</Proxy>
+			<Proxy enabled="true">227</Proxy>
+			<Proxy enabled="true">228</Proxy>
+			<Proxy enabled="true">229</Proxy>
+			<Proxy enabled="true">230</Proxy>
+			<Proxy enabled="true">231</Proxy>
+			<Proxy enabled="true">232</Proxy>
+			<Proxy enabled="true">233</Proxy>
+			<Proxy enabled="true">234</Proxy>
+			<Proxy enabled="true">235</Proxy>
+			<Proxy enabled="true">236</Proxy>
+			<Proxy enabled="true">237</Proxy>
+			<Proxy enabled="true">238</Proxy>
+			<Proxy enabled="true">239</Proxy>
+			<Proxy enabled="true">240</Proxy>
+			<Proxy enabled="true">241</Proxy>
+			<Proxy enabled="true">242</Proxy>
+			<Proxy enabled="true">243</Proxy>
+			<Proxy enabled="true">244</Proxy>
+			<Proxy enabled="true">245</Proxy>
+			<Proxy enabled="true">246</Proxy>
+			<Proxy enabled="true">247</Proxy>
+			<Proxy enabled="true">248</Proxy>
+			<Proxy enabled="true">249</Proxy>
+			<Proxy enabled="true">250</Proxy>
+			<Proxy enabled="true">251</Proxy>
+			<Proxy enabled="true">252</Proxy>
+			<Proxy enabled="true">253</Proxy>
+			<Proxy enabled="true">254</Proxy>
+			<Proxy enabled="true">255</Proxy>
+			<Proxy enabled="true">256</Proxy>
+			<Proxy enabled="true">257</Proxy>
+			<Proxy enabled="true">258</Proxy>
+			<Proxy enabled="true">259</Proxy>
+			<Proxy enabled="true">260</Proxy>
+			<Proxy enabled="true">261</Proxy>
+			<Proxy enabled="true">262</Proxy>
+			<Proxy enabled="true">263</Proxy>
+			<Proxy enabled="true">264</Proxy>
+			<Proxy enabled="true">265</Proxy>
+			<Proxy enabled="true">266</Proxy>
+			<Proxy enabled="true">267</Proxy>
+			<Proxy enabled="true">268</Proxy>
+			<Proxy enabled="true">269</Proxy>
+			<Proxy enabled="true">270</Proxy>
+			<Proxy enabled="true">271</Proxy>
+			<Proxy enabled="true">272</Proxy>
+			<Proxy enabled="true">273</Proxy>
+			<Proxy enabled="true">274</Proxy>
+			<Proxy enabled="true">275</Proxy>
+			<Proxy enabled="true">276</Proxy>
+			<Proxy enabled="true">277</Proxy>
+			<Proxy enabled="true">278</Proxy>
+			<Proxy enabled="true">279</Proxy>
+			<Proxy enabled="true">280</Proxy>
+			<Proxy enabled="true">281</Proxy>
+			<Proxy enabled="true">282</Proxy>
+			<Proxy enabled="true">283</Proxy>
+			<Proxy enabled="true">284</Proxy>
+			<Proxy enabled="true">285</Proxy>
+			<Proxy enabled="true">286</Proxy>
+			<Proxy enabled="true">287</Proxy>
+			<Proxy enabled="true">288</Proxy>
+			<Proxy enabled="true">289</Proxy>
+			<Proxy enabled="true">290</Proxy>
+			<Proxy enabled="true">291</Proxy>
+			<Proxy enabled="true">292</Proxy>
+			<Proxy enabled="true">293</Proxy>
+			<Proxy enabled="true">294</Proxy>
+			<Proxy enabled="true">295</Proxy>
+			<Proxy enabled="true">296</Proxy>
+			<Proxy enabled="true">297</Proxy>
+			<Proxy enabled="true">298</Proxy>
+			<Proxy enabled="true">299</Proxy>
+			<Proxy enabled="true">300</Proxy>
+			<Name>New</Name>
+		</Chain>
+	</ChainList>
+	<RuleList>
+		<Rule enabled="true">
+			<Action type="Chain">1000</Action>
+			<Targets>*.metin2.gameforge.com;pixelzirkus.gameforge.com</Targets>
+			<Applications>chrome.exe</Applications>
+			<Name>login</Name>
+		</Rule>
+		<Rule enabled="true">
+			<Action type="Direct" />
+			<Targets>localhost; 127.0.0.1; %ComputerName%; ::1</Targets>
+			<Name>localhost</Name>
+		</Rule>
+		<Rule enabled="true">
+			<Action type="Direct" />
+			<Name>Default</Name>
+		</Rule>
+	</RuleList>
+</ProxifierProfile>
